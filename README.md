@@ -6,16 +6,16 @@ A minimal yet functional `tmux` setup focused on **productivity**, **Vim-style n
 
 ## Features
 
-- 🔁 Reload config with `<prefix> + r`
-- 🎯 Vim-style keybindings for navigation and copy mode
-- 🐭 Mouse support and smooth scrolling
-- 🪟 Intuitive window splitting:
+- Reload config with `<prefix> + r`
+- Vim-style keybindings for navigation and copy mode
+- Mouse support and smooth scrolling
+- Intuitive window splitting:
   - `<prefix> + .` for horizontal split
   - `<prefix> + ,` for vertical split
-- 🚀 Shift + ← / → to cycle through windows
-- 🖱 Mouse support
-- 🎨 Gruvbox theme with custom separators
-- 🔌 Plugin support via [TPM](https://github.com/tmux-plugins/tpm)
+- Shift + ← / → to cycle through windows
+- Mouse support
+- Gruvbox theme with custom separators
+- Plugin support via [TPM](https://github.com/tmux-plugins/tpm)
 
 ## Keybindings
 
