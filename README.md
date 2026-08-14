@@ -83,7 +83,7 @@ make link
 
 ## Screenshot
 
-![Screenshot](assets/tmux-bar.png)
+![Screenshot](assets/screenshot.png)
 
 ## License
 
