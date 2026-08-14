@@ -85,6 +85,6 @@ make link
 
 ![Screenshot](assets/tmux-bar.png)
 
-## 📄 License
+## License
 
 MIT License. Feel free to use, fork, and modify.
