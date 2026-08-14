@@ -2,6 +2,8 @@
   <img src="assets/tmux.svg" width="40%">
 </p>
 
+# Tmux Setup
+
 A minimal yet functional `tmux` setup focused on **productivity**, **Vim-style navigation**, and a **clean gruvbox theme**.
 
 ## Features
@@ -51,23 +53,29 @@ Managed with [TPM](https://github.com/tmux-plugins/tpm):
 
 1. Install Tmux:
 
-```sh-session
+```sh
 brew install tmux
 ```
 
 2. Clone TPM:
 
-```sh-session
+```sh
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-3. Link Tmux config file to $HOME directory:
+3. Clone this repo into your dotfile directory:
 
-```sh-session
+```sh
+git clone git@github.com:daprabowo/tmux-config.git
+```
+
+4. Link Tmux config file to $HOME directory:
+
+```sh
 make link
 ```
 
-4. Restart Tmux and enjoy!
+5. Open or restart Tmux and enjoy!
 
 ```sh-session
 <prefix> + I
